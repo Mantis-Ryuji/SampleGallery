@@ -1,3 +1,12 @@
+<style>
+  img {
+    max-width: 250px;
+    height: auto;
+  }
+  table { border-collapse: collapse }
+  td, th { padding: 4px }
+</style>
+
 ### 評価基準
 
 - **A**: サンプルに使えそう
