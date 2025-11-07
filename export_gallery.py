@@ -1,5 +1,6 @@
 import json
 import re
+import csv
 from pathlib import Path
 from typing import List, Tuple
 
@@ -22,51 +23,83 @@ def make_table_row(cells: List[str], n_cols: int) -> str:
     padded = cells + [""] * (n_cols - len(cells))
     return "| " + " | ".join(padded) + " |"
 
-def make_section_md(base: str, image_paths: List[Path], image_root_rel: Path, cols: int = 3) -> str:
+def make_section_md(base: str, grade: str, image_paths: List[Path], image_root_rel: Path, cols: int = 3) -> str:
+    """見出しを '### {base}: {grade}' 形式で出力"""
     if not image_paths:
         table = "_No images found_"
     else:
         header = make_table_row([""] * cols, cols)
         sep = make_table_row(["---"] * cols, cols)
-
         rows = []
         for chunk_paths in chunk(image_paths, cols):
             cells = [f'<img src="{image_root_rel / p.name}">' for p in chunk_paths]
             rows.append(make_table_row(cells, cols))
-
         table = "\n".join([header, sep] + rows)
 
-    section = f"""### {base}
+    return f"### {base}: {grade}\n\n{table}\n"
 
-{table}
-"""
-    return section
+def load_name_grade_list(names_json_path: Path) -> List[Tuple[str, str]]:
+    data = json.loads(names_json_path.read_text(encoding="utf-8"))
+    result = []
+    for i, item in enumerate(data):
+        if not isinstance(item, dict) or len(item) != 1:
+            raise ValueError(f"names_json[{i}] が不正です: {item}")
+        (name, grade), = item.items()
+        if grade.upper() not in {"A", "B", "C"}:
+            raise ValueError(f"不正な評価値: {grade}")
+        result.append((name, grade.upper()))
+    return result
 
-def build_markdown_from_json(
+def write_grade_csv(rows: List[Tuple[str, str]], csv_path: Path) -> None:
+    """CSV出力: grade,samplename"""
+    with csv_path.open("w", newline="", encoding="utf-8") as f:
+        writer = csv.writer(f)
+        writer.writerow(["grade", "samplename"])
+        for grade, name in rows:
+            writer.writerow([grade, name])
+
+def build_markdown_and_summary(
     names_json="sample_names.json",
     images_dir="images",
     output_md="samples.md",
+    output_csv="summary_by_grade.csv",
     exts=(".jpeg", ".jpg", ".png"),
     cols=3,
 ):
-    names = json.loads(Path(names_json).read_text(encoding="utf-8"))
+    names_json_path = Path(names_json)
     images_dir = Path(images_dir)
-    out_path = Path(output_md)
+    out_md_path = Path(output_md)
+    out_csv_path = Path(output_csv)
 
-    sections = []
-    for base in names:
+    name_grade_list = load_name_grade_list(names_json_path)
+
+    sections_md = []
+    csv_rows = []
+    order = {"A": 0, "B": 1, "C": 2}
+    name_grade_list.sort(key=lambda x: (order.get(x[1], 99), x[0]))
+
+    for base, grade in name_grade_list:
         imgs = find_images_for_name(images_dir, base, exts=exts)
-        sections.append(make_section_md(base, imgs, Path(images_dir.name), cols=cols))
+        sections_md.append(make_section_md(base, grade, imgs, Path(images_dir.name), cols=cols))
+        csv_rows.append((grade, base))
 
-    md = "\n\n".join(sections).rstrip() + "\n"
-    out_path.write_text(md, encoding="utf-8")
-    print(f"✅ Wrote {out_path} with {len(sections)} sections.")
+    # Markdown
+    md = "\n\n".join(sections_md).rstrip() + "\n"
+    out_md_path.write_text(md, encoding="utf-8")
+
+    # CSV
+    csv_rows.sort(key=lambda r: (order.get(r[0], 99), r[1]))
+    write_grade_csv(csv_rows, out_csv_path)
+
+    print(f"✅ Wrote {out_md_path} with {len(sections_md)} sections.")
+    print(f"✅ Wrote {out_csv_path} with {len(csv_rows)} rows.")
 
 if __name__ == "__main__":
-    build_markdown_from_json(
+    build_markdown_and_summary(
         names_json="sample_names.json",
         images_dir="images",
         output_md="samples.md",
+        output_csv="summary_by_grade.csv",
         exts=(".jpeg", ".jpg", ".png"),
         cols=3,
     )
