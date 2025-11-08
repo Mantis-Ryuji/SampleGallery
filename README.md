@@ -1,4 +1,5 @@
 ### 評価基準
+> 薄さ & 劣化してるかどうか
 
 - **A**: サンプルに使えそう
 - **B**: 要確認
@@ -16,14 +17,6 @@
 |  |  |  |
 | --- | --- | --- |
 | <img src="images/KZ00224_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00224_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00224_3.jpeg" style="max-width:200px;height:auto;"> |
-
-
-### KZ00226: A
-
-|  |  |  |
-| --- | --- | --- |
-| <img src="images/KZ00226_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00226_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00226_3.jpeg" style="max-width:200px;height:auto;"> |
-
 
 ### KZ00227: A
 
@@ -51,13 +44,6 @@
 |  |  |  |
 | --- | --- | --- |
 | <img src="images/KZ00252_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00252_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00252_3.jpeg" style="max-width:200px;height:auto;"> |
-
-
-### KZ00258: A
-
-|  |  |  |
-| --- | --- | --- |
-| <img src="images/KZ00258_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00258_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00258_3.jpeg" style="max-width:200px;height:auto;"> |
 
 
 ### KZ00259: A
@@ -186,13 +172,6 @@
 | <img src="images/KZ00286_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00286_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00286_3.jpeg" style="max-width:200px;height:auto;"> |
 
 
-### KZ00287: A
-
-|  |  |  |
-| --- | --- | --- |
-| <img src="images/KZ00287_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00287_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00287_3.jpeg" style="max-width:200px;height:auto;"> |
-
-
 ### KZ00288: A
 
 |  |  |  |
@@ -254,13 +233,6 @@
 |  |  |  |
 | --- | --- | --- |
 | <img src="images/KZ00319_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00319_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00319_3.jpeg" style="max-width:200px;height:auto;"> |
-
-
-### KZ00333: A
-
-|  |  |  |
-| --- | --- | --- |
-| <img src="images/KZ00333_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00333_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00333_3.jpeg" style="max-width:200px;height:auto;"> |
 
 
 ### KZ00335: A
@@ -326,20 +298,6 @@
 | <img src="images/KZ00362_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00362_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00362_3.jpeg" style="max-width:200px;height:auto;"> |
 
 
-### KZ00383: A
-
-|  |  |  |
-| --- | --- | --- |
-| <img src="images/KZ00383_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00383_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00383_3.jpeg" style="max-width:200px;height:auto;"> |
-
-
-### KZ00387: A
-
-|  |  |  |
-| --- | --- | --- |
-| <img src="images/KZ00387_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00387_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00387_3.jpeg" style="max-width:200px;height:auto;"> |
-
-
 ### KZ00389: A
 
 |  |  |  |
@@ -387,13 +345,6 @@
 |  |  |  |
 | --- | --- | --- |
 | <img src="images/KZ00486_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00486_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00486_3.jpeg" style="max-width:200px;height:auto;"> |
-
-
-### KZ00487: A
-
-|  |  |  |
-| --- | --- | --- |
-| <img src="images/KZ00487_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00487_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00487_3.jpeg" style="max-width:200px;height:auto;"> |
 
 
 ### KZ00488: A
@@ -480,53 +431,11 @@
 | <img src="images/KZ00524_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00524_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00524_3.jpeg" style="max-width:200px;height:auto;"> |
 
 
-### KZ00545: A
-
-|  |  |  |
-| --- | --- | --- |
-| <img src="images/KZ00545_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00545_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00545_3.jpeg" style="max-width:200px;height:auto;"> |
-
-
 ### KZ00568: A
 
 |  |  |  |
 | --- | --- | --- |
 | <img src="images/KZ00568_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00568_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00568_3.jpeg" style="max-width:200px;height:auto;"> |
-
-
-### KZ00590: A
-
-|  |  |  |
-| --- | --- | --- |
-| <img src="images/KZ00590_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00590_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00590_3.jpeg" style="max-width:200px;height:auto;"> |
-
-
-### KZ00591: A
-
-|  |  |  |
-| --- | --- | --- |
-| <img src="images/KZ00591_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00591_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00591_3.jpeg" style="max-width:200px;height:auto;"> |
-
-
-### KZ00592: A
-
-|  |  |  |
-| --- | --- | --- |
-| <img src="images/KZ00592_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00592_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00592_3.jpeg" style="max-width:200px;height:auto;"> |
-
-
-### KZ00594: A
-
-|  |  |  |
-| --- | --- | --- |
-| <img src="images/KZ00594_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00594_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00594_3.jpeg" style="max-width:200px;height:auto;"> |
-
-
-### KZ00595: A
-
-|  |  |  |
-| --- | --- | --- |
-| <img src="images/KZ00595_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00595_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00595_3.jpeg" style="max-width:200px;height:auto;"> |
 
 
 ### KZ00597: A
@@ -541,13 +450,6 @@
 |  |  |  |
 | --- | --- | --- |
 | <img src="images/KZ00598_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00598_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00598_3.jpeg" style="max-width:200px;height:auto;"> |
-
-
-### KZ00599: A
-
-|  |  |  |
-| --- | --- | --- |
-| <img src="images/KZ00599_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00599_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00599_3.jpeg" style="max-width:200px;height:auto;"> |
 
 
 ### KZ00600: A
@@ -583,13 +485,6 @@
 |  |  |  |
 | --- | --- | --- |
 | <img src="images/KZ00606_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00606_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00606_3.jpeg" style="max-width:200px;height:auto;"> |
-
-
-### KZ00608: A
-
-|  |  |  |
-| --- | --- | --- |
-| <img src="images/KZ00608_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00608_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00608_3.jpeg" style="max-width:200px;height:auto;"> |
 
 
 ### KZ00622: A
@@ -633,12 +528,25 @@
 | --- | --- | --- |
 | <img src="images/KZ00219_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00219_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00219_3.jpeg" style="max-width:200px;height:auto;"> |
 
+### KZ00226: B
+
+|  |  |  |
+| --- | --- | --- |
+| <img src="images/KZ00226_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00226_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00226_3.jpeg" style="max-width:200px;height:auto;"> |
+
 
 ### KZ00256: B
 
 |  |  |  |
 | --- | --- | --- |
 | <img src="images/KZ00256_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00256_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00256_3.jpeg" style="max-width:200px;height:auto;"> |
+
+
+### KZ00258: B
+
+|  |  |  |
+| --- | --- | --- |
+| <img src="images/KZ00258_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00258_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00258_3.jpeg" style="max-width:200px;height:auto;"> |
 
 
 ### KZ00260: B
@@ -660,6 +568,13 @@
 |  |  |  |
 | --- | --- | --- |
 | <img src="images/KZ00268_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00268_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00268_3.jpeg" style="max-width:200px;height:auto;"> |
+
+
+### KZ00287: B
+
+|  |  |  |
+| --- | --- | --- |
+| <img src="images/KZ00287_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00287_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00287_3.jpeg" style="max-width:200px;height:auto;"> |
 
 
 ### KZ00316: B
@@ -711,11 +626,25 @@
 | <img src="images/KZ00357_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00357_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00357_3.jpeg" style="max-width:200px;height:auto;"> |
 
 
+### KZ00387: B
+
+|  |  |  |
+| --- | --- | --- |
+| <img src="images/KZ00387_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00387_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00387_3.jpeg" style="max-width:200px;height:auto;"> |
+
+
 ### KZ00511: B
 
 |  |  |  |
 | --- | --- | --- |
 | <img src="images/KZ00511_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00511_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00511_3.jpeg" style="max-width:200px;height:auto;"> |
+
+
+### KZ00545: B
+
+|  |  |  |
+| --- | --- | --- |
+| <img src="images/KZ00545_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00545_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00545_3.jpeg" style="max-width:200px;height:auto;"> |
 
 
 ### KZ00593: B
@@ -737,6 +666,13 @@
 |  |  |  |
 | --- | --- | --- |
 | <img src="images/KZ00607_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00607_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00607_3.jpeg" style="max-width:200px;height:auto;"> |
+
+
+### KZ00608: B
+
+|  |  |  |
+| --- | --- | --- |
+| <img src="images/KZ00608_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00608_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00608_3.jpeg" style="max-width:200px;height:auto;"> |
 
 
 ### KZ00621: B
@@ -886,6 +822,13 @@
 | <img src="images/KZ00332_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00332_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00332_3.jpeg" style="max-width:200px;height:auto;"> |
 
 
+### KZ00333: C
+
+|  |  |  |
+| --- | --- | --- |
+| <img src="images/KZ00333_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00333_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00333_3.jpeg" style="max-width:200px;height:auto;"> |
+
+
 ### KZ00345: C
 
 |  |  |  |
@@ -900,11 +843,25 @@
 | <img src="images/KZ00346_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00346_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00346_3.jpeg" style="max-width:200px;height:auto;"> |
 
 
+### KZ00383: C
+
+|  |  |  |
+| --- | --- | --- |
+| <img src="images/KZ00383_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00383_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00383_3.jpeg" style="max-width:200px;height:auto;"> |
+
+
 ### KZ00388: C
 
 |  |  |  |
 | --- | --- | --- |
 | <img src="images/KZ00388_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00388_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00388_3.jpeg" style="max-width:200px;height:auto;"> |
+
+
+### KZ00487: C
+
+|  |  |  |
+| --- | --- | --- |
+| <img src="images/KZ00487_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00487_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00487_3.jpeg" style="max-width:200px;height:auto;"> |
 
 
 ### KZ00489: C
@@ -940,6 +897,48 @@
 |  |  |  |
 | --- | --- | --- |
 | <img src="images/KZ00588_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00588_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00588_3.jpeg" style="max-width:200px;height:auto;"> |
+
+
+### KZ00590: C
+
+|  |  |  |
+| --- | --- | --- |
+| <img src="images/KZ00590_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00590_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00590_3.jpeg" style="max-width:200px;height:auto;"> |
+
+
+### KZ00591: C
+
+|  |  |  |
+| --- | --- | --- |
+| <img src="images/KZ00591_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00591_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00591_3.jpeg" style="max-width:200px;height:auto;"> |
+
+
+### KZ00592: C
+
+|  |  |  |
+| --- | --- | --- |
+| <img src="images/KZ00592_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00592_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00592_3.jpeg" style="max-width:200px;height:auto;"> |
+
+
+### KZ00594: C
+
+|  |  |  |
+| --- | --- | --- |
+| <img src="images/KZ00594_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00594_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00594_3.jpeg" style="max-width:200px;height:auto;"> |
+
+
+### KZ00595: C
+
+|  |  |  |
+| --- | --- | --- |
+| <img src="images/KZ00595_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00595_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00595_3.jpeg" style="max-width:200px;height:auto;"> |
+
+
+### KZ00599: C
+
+|  |  |  |
+| --- | --- | --- |
+| <img src="images/KZ00599_1.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00599_2.jpeg" style="max-width:200px;height:auto;"> | <img src="images/KZ00599_3.jpeg" style="max-width:200px;height:auto;"> |
 
 
 ### KZ00623: C
